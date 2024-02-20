@@ -1,1 +1,1 @@
-# DS-ML-DL-projects
+# DS-ML-projects
